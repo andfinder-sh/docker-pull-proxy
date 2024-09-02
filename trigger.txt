@@ -1,1 +1,1 @@
-ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/songiro/ollama:latest
+mintplexlabs/anythingllm:latest registry.cn-hangzhou.aliyuncs.com/songiro/anythingllm:latest
