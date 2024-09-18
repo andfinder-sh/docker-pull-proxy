@@ -1,1 +1,1 @@
-xprobe/xinference:latest registry.cn-hangzhou.aliyuncs.com/songiro/xprobe-xinference:latest
+quay.io/go-skynet/local-ai:latest registry.cn-hangzhou.aliyuncs.com/songiro/local-ai:latest
